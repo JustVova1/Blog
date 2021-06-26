@@ -784,9 +784,9 @@ a {
       height: 3.5rem; } }
 
 .add-post__file {
-  background: #EBEBEB url("/assets/images/add-photo.svg") center no-repeat; }
+  background: #EBEBEB url("../images/add-photo.svg") center no-repeat; }
   .add-post__file:hover {
-    background: #c5c5c5 url("/assets/images/add-photo.svg") center no-repeat; }
+    background: #c5c5c5 url("../images/add-photo.svg") center no-repeat; }
   .add-post__file input {
     display: none; }
   @media (max-width: 575px) {
@@ -796,7 +796,7 @@ a {
 .add-post__send {
   font-size: 0;
   color: transparent;
-  background: #3137C9 url("/assets/images/add-send.svg") center no-repeat;
+  background: #3137C9 url("..//images/add-send.svg") center no-repeat;
   margin-left: 1.5rem; }
   .add-post__send:hover {
     background-color: #272ca0; }
